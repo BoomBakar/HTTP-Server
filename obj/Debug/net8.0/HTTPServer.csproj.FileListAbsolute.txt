@@ -12,3 +12,4 @@ C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\refint\HTTPServer.dl
 C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.pdb
 C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.genruntimeconfig.cache
 C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\ref\HTTPServer.dll
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.sourcelink.json
