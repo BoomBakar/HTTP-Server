@@ -1,0 +1,14 @@
+C:\Users\BoomBakar\source\repos\HTTPServer\bin\Debug\net8.0\HTTPServer.exe
+C:\Users\BoomBakar\source\repos\HTTPServer\bin\Debug\net8.0\HTTPServer.deps.json
+C:\Users\BoomBakar\source\repos\HTTPServer\bin\Debug\net8.0\HTTPServer.runtimeconfig.json
+C:\Users\BoomBakar\source\repos\HTTPServer\bin\Debug\net8.0\HTTPServer.dll
+C:\Users\BoomBakar\source\repos\HTTPServer\bin\Debug\net8.0\HTTPServer.pdb
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.AssemblyInfo.cs
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.dll
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\refint\HTTPServer.dll
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.pdb
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\HTTPServer.genruntimeconfig.cache
+C:\Users\BoomBakar\source\repos\HTTPServer\obj\Debug\net8.0\ref\HTTPServer.dll
